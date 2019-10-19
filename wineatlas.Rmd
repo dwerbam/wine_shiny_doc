@@ -25,13 +25,11 @@ colfancy2 <- scale_color_manual(values=wes_palette("Zissou1", 4))
 
 This app is meant to be used to find the best price/quality wines in the market. You can refine your search based on scores and prices, and inspect the data in a chart split by country, and a complete table.
 
-![](wine.jpg)
-
-
-## Step 2. Adjust the parameters
+*Adjust the parameters*
 
 - Min points (scoring) will filter the results keeping only the scores greater that the specified param.
 - Price scope will let you filter the results keeping only which price is between the indicated draggable indicator.
+
 
 ## Source
 
